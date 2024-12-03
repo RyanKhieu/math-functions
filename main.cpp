@@ -16,7 +16,7 @@ int main() {
     // Neil wants to find the square root of 9 in math class. What is the square root of 9?
     // Use the sqrt() function to find the square root
     std::cout << "The square root of 9 is " << sqrt(neil) << std::endl;
-    // Pranav wants to find the distance he is from his house as he walks home from school. If he walks 2 kilometers past his house, what is the absolute value of his distance from his house
+    // Pranav wants to find the distance he is from his house as he walks home from school. If he walks 2 kilometers past his house, what is the absolute value of his distance from his house?
     // Use the abs() function to find the absolute value
     std::cout << "The absolute value of Pranav's distance from his house is " << abs(pranav) << " kilometers" << std::endl;  
 
